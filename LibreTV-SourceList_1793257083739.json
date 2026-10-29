@@ -1,56 +1,296 @@
 {
-  "name": "LibreTV-SourceList",
-  "version": 2,
-  "sources": [
-    {"name":"红牛资源","url":"https://www.hongniuzy2.com/api.php/provide/vod"},
-    {"name":"量子资源","url":"https://cj.lziapi.com/api.php/provide/vod"},
-    {"name":"优质资源库","url":"http://api.1080zyku.com/inc/api.php/provide/vod"},
-    {"name":"天堂资源","url":"http://vipmv.cc/api.php/provide/vod"},
-    {"name":"乐活影视","url":"http://lehootv.com/api.php/provide/vod"},
-    {"name":"唐人街","url":"http://tangrenjie.tv/api.php/provide/vod"},
-    {"name":"酷点资源","url":"https://api.kuapi.cc/api.php/provide/vod"},
-    {"name":"卧龙资源","url":"https://collect.wolongzyw.com/api.php/provide/vod"},
-    {"name":"森林资源","url":"http://slapibf.com/api.php/provide/vod"},
-    {"name":"影库资源网","url":"http://api.ykapi.net/api.php/provide/vod"},
-    {"name":"快车资源","url":"https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8"},
-    {"name":"探探资源","url":"http://apittzy.com/api.php/provide/vod"},
-    {"name":"闪电资源","url":"http://sdzyapi.com/api.php/provide/vod"},
-    {"name":"金鹰资源","url":"http://jyzyapi.com/provide/vod/from/jinyingm3u8"},
-    {"name":"光速资源","url":"http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"},
-    {"name":"奥斯卡资源","url":"http://aosikazy.com/api.php/provide/vod"},
-    {"name":"老鸭资源","url":"http://api.apilyzy.com/api.php/provide/vod"},
-    {"name":"U酷资源","url":"https://api.ukuapi.com/api.php/provide/vod"},
-    {"name":"北斗星资源","url":"http://m3u8.bdxzyapi.com/api.php/provide/vod"},
-    {"name":"樱花资源","url":"https://m3u8.apiyhzy.com/api.php/provide/vod"},
-    {"name":"飞速资源","url":"https://www.feisuzyapi.com/api.php/provide/vod"},
-    {"name":"快播资源","url":"http://www.kuaibozy.com/api.php/provide/vod"},
-    {"name":"百度资源","url":"https://api.apibdzy.com/api.php/provide/vod"},
-    {"name":"艾旦影视","url":"http://lovedan.net/api.php/provide/vod"},
-    {"name":"天空资源","url":"http://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8"},
-    {"name":"海外看","url":"https://haiwaikan.com/api.php/provide/vod"},
-    {"name":"360资源","url":"https://360zy.com/api.php/provide/vod"},
-    {"name":"黑木耳","url":"https://www.heimuer.tv/api.php/provide/vod"},
-    {"name":"华为吧","url":"https://hw8.live/api.php/provide/vod"},
-    {"name":"小黄人","url":"https://iqyi.xiaohuangrentv.com/api.php/provide/vod"},
-    {"name":"牛牛资源","url":"https://api.niuniuzy.me/api.php/provide/vod"},
-    {"name":"丫丫资源","url":"https://cj.yayazy.net/api.php/provide/vod"},
-    {"name":"豪华资源","url":"https://hhzyapi.com/api.php/provide/vod"},
-    {"name":"极速资源","url":"https://jszyapi.com/api.php/provide/vod"},
-    {"name":"四九资源","url":"https://49zyw.com/api.php/provide/vod"},
-    {"name":"索尼资源","url":"https://suoniapi.com/api.php/provide/vod"},
-    {"name":"ikun资源","url":"https://ikunzyapi.com/api.php/provide/vod"},
-    {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/provide/vod"},
-    {"name":"暴风资源","url":"https://bfzyapi.com/api.php/provide/vod"},
-    {"name":"快看资源","url":"https://www.kuaikan-api.com/api.php/provide/vod"},
-    {"name":"熊掌资源","url":"https://xzcjz.com/api.php/provide/vod"},
-    {"name":"天翼资源","url":"https://www.911ysw.top/tianyi.php/provide/vod"},
-    {"name":"虎牙资源","url":"https://www.huyaapi.com/api.php/provide/vod"},
-    {"name":"飘零资源","url":"https://p2100.net/api.php/provide/vod"},
-    {"name":"无尽资源","url":"https://api.wujinapi.com/api.php/provide/vod"},
-    {"name":"速博资源","url":"https://subocaiji.com/api.php/provide/vod"},
-    {"name":"魔都资源","url":"https://caiji.moduapi.cc/api.php/provide/vod"},
-    {"name":"奇虎资源","url":"https://caiji.qhzyapi.com/api.php/provide/vod"},
-    {"name":"新浪资源","url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod"},
-    {"name":"快云资源","url":"https://www.kuaiyunzy.com/api.php/provide/vod"}
-  ]
+    "name": "LibreTV-SourceList",
+    "version": 2,
+    "exportedAt": 1793028295367,
+    "sources": [
+        {
+            "name": "红牛資源",
+            "url": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8"
+        },
+        {
+            "name": "量子資源",
+            "url": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+        },
+        {
+            "name": "開放電影",
+            "url": "http://vod-demo.onrender.com/pubdovod.php"
+        },
+        {
+            "name": "优质资源库",
+            "url": "http://api.1080zyku.com/inc/api.php/provide/vod"
+        },
+        {
+            "name": "39影视",
+            "url": "http://39kan.com/api.php/provide/vod"
+        },
+        {
+            "name": "天堂资源",
+            "url": "shturl.cc/HXz8RouZFdpssfGYhhagPHuu7"
+        },
+        {
+            "name": "乐活影视",
+            "url": "shturl.cc/zIEzm0xOz4UvKp2jLmvSy03WPAa8"
+        },
+        {
+            "name": "唐人街",
+            "url": "shturl.cc/4yqfxkt7HfWQ8EtWkl9V8RsKyHYNty"
+        },
+        {
+            "name": "酷点资源",
+            "url": "http://api.kuapi.cc/api.php/provide/vod"
+        },
+        {
+            "name": "卧龙资源",
+            "url": "http://collect.wolongzyw.com/api.php/provide/vod"
+        },
+        {
+            "name": "酷点资源2",
+            "url": "http://kudian10.com/api.php/provide/vod"
+        },
+        {
+            "name": "唐人街2",
+            "url": "shturl.cc/4yqfxkt7HfWQ8EtWkl9V8RsKyHYNty/at/xm"
+        },
+        {
+            "name": "森林资源",
+            "url": "shturl.cc/W4xk6W9MeZSSWo7GYbgJa5RAAcs0"
+        },
+        {
+            "name": "影库资源网",
+            "url": "http://api.ykapi.net/api.php/provide/vod"
+        },
+        {
+            "name": "快车资源",
+            "url": "shturl.cc/jJS3lOr0rHWpUnOXSFf3E9Hupk8r3WDueWUflxVeidHmNR"
+        },
+        {
+            "name": "探探资源",
+            "url": "shturl.cc/wMziZ2d5hVSOwg2W8N89AKSzyTOu"
+        },
+        {
+            "name": "闪电资源",
+            "url": "http://sdzyapi.com/api.php/provide/vod/from/sdm3u8"
+        },
+        {
+            "name": "金鹰资源",
+            "url": "http://jyzyapi.com/provide/vod/from/jinyingm3u8"
+        },
+        {
+            "name": "光速资源",
+            "url": "http://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"
+        },
+        {
+            "name": "奥斯卡资源网",
+            "url": "shturl.cc/TbvsnnBK78mOe0WEch5Hgunx5rf7I"
+        },
+        {
+            "name": "老鸭资源采集",
+            "url": "shturl.cc/yhcgDwxHFA9nHXHEQEqChrKTNW2BzTF8"
+        },
+        {
+            "name": "U酷资源",
+            "url": "http://api.ukuapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "北斗星资源",
+            "url": "http://m3u8.bdxzyapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "樱花资源网",
+            "url": "http://m3u8.apiyhzy.com/api.php/provide/vod"
+        },
+        {
+            "name": "飞速资源",
+            "url": "shturl.cc/ryO1E8Rijv7rh8DUhZwSGAhO2ABf"
+        },
+        {
+            "name": "快播资源",
+            "url": "http://www.kuaibozy.com/api.php/provide/vod"
+        },
+        {
+            "name": "百度资源",
+            "url": "http://api.apibdzy.com/api.php/provide/vod"
+        },
+        {
+            "name": "艾旦影视",
+            "url": "shturl.cc/u6SS7Nt091qpzcleiy5KXkO3F9oi"
+        },
+        {
+            "name": "飘花电影",
+            "url": "shturl.cc/XuZv4KIvvjEJLEt6Mq4EAlgmJ2xs019"
+        },
+        {
+            "name": "网民电影",
+            "url": "shturl.cc/azEQZEHgY2ICP22VK5GB2fi8ROnfy2TQ72"
+        },
+        {
+            "name": "丝袜资源",
+            "url": "shturl.cc/dzBPcebMwc6ymmRqcvb4uHXVejU"
+        },
+        {
+            "name": "天空資源",
+            "url": "shturl.cc/x63dohWYbpMPOb429snuWGVyRmzhTAF0jL2ZQWcglaYcmO15r"
+        },
+        {
+            "name": "海外看资源",
+            "url": "shturl.cc/wMTUASuB5BpFUBpwiJdsOs65MMLkue"
+        },
+        {
+            "name": "海外看|点播",
+            "url": "shturl.cc/sWCAodAOTpXkJv1vcvvRPGrVZXayXcss"
+        },
+        {
+            "name": "360|点播",
+            "url": "shturl.cc/bUFklD3q86SiRvMwhoImGnuPvveN"
+        },
+        {
+            "name": "黑木耳|点播",
+            "url": "shturl.cc/rN3va0pcdQme02V8DRbbH9pucFoMhkrs"
+        },
+        {
+            "name": "刺桐|点播",
+            "url": "http://ys9.cttv.vip/api.php/provide/vod/"
+        },
+        {
+            "name": "官网|点播",
+            "url": "http://gwcms.cttv.vip/api.php/provide/vod/"
+        },
+        {
+            "name": "业余|点播",
+            "url": "https://yyff.540734621.xyz/api.php/provide/vod/"
+        },
+        {
+            "name": "华为吧|点播",
+            "url": "shturl.cc/mlHnlzoZG2dX1xLcQAoOryLbLe7"
+        },
+        {
+            "name": "小黄人|点播",
+            "url": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
+        },
+        {
+            "name": "牛牛|点播",
+            "url": "https://api.niuniuzy.me/api.php/provide/vod/"
+        },
+        {
+            "name": "丫丫|点播",
+            "url": "https://cj.yayazy.net/api.php/provide/vod/"
+        },
+        {
+            "name": "豪华|点播",
+            "url": "shturl.cc/0qFA0qh5I1OIruaVfuBTk7zVDcWV1"
+        },
+        {
+            "name": "极速|点播",
+            "url": "https://jszyapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "四九|点播",
+            "url": "https://49zyw.com/api.php/provide/vod/"
+        },
+        {
+            "name": "索尼|点播",
+            "url": "https://suoniapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "ikun|点播",
+            "url": "https://ikunzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "非凡|点播",
+            "url": "http://cj.ffzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "量子|点播",
+            "url": "https://cj.lziapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "暴风|点播",
+            "url": "https://bfzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "红牛|点播",
+            "url": "https://www.hongniuzy2.com/api.php/provide/vod/"
+        },
+        {
+            "name": "飞速|点播",
+            "url": "https://www.feisuzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "快看|点播",
+            "url": "https://www.kuaikan-api.com/api.php/provide/vod/"
+        },
+        {
+            "name": "熊掌|点播",
+            "url": "https://xzcjz.com/api.php/provide/vod/"
+        },
+        {
+            "name": "快车|点播",
+            "url": "shturl.cc/6lONotL67EgwoHU9okqNpY4XSqKaMXOFjGyyE6I0oPufQe9o"
+        },
+        {
+            "name": "闪电|点播",
+            "url": "https://sdzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "樱花|点播",
+            "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "卧龙|点播",
+            "url": "https://collect.wolongzyw.com/api.php/provide/vod/"
+        },
+        {
+            "name": "飘花|点播",
+            "url": "shturl.cc/OhESY7AZlJ26EHKf0xAB74blVfMHodCkhgEePas8a"
+        },
+        {
+            "name": "天翼|点播",
+            "url": "shturl.cc/cr9xFcuj1btXNaGA9WDL4RaifSCfx3g30fXi"
+        },
+        {
+            "name": "虎牙|点播",
+            "url": "https://www.huyaapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "百度|点播",
+            "url": "https://api.apibdzy.com/api.php/provide/vod/"
+        },
+        {
+            "name": "飘零|点播",
+            "url": "shturl.cc/tGfytbVmDCXmiEH3SYZ8mfltHWpo"
+        },
+        {
+            "name": "无尽|点播",
+            "url": "https://api.wujinapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "速博|点播",
+            "url": "https://subocaiji.com/api.php/provide/vod/"
+        },
+        {
+            "name": "魔都|点播",
+            "url": "shturl.cc/mxMXK39MMQZ9QOEch1v0MQKh21H4xAqtwej"
+        },
+        {
+            "name": "最大|点播",
+            "url": "http://zuidazy.me/api.php/provide/vod/"
+        },
+        {
+            "name": "奇虎|点播",
+            "url": "https://caiji.qhzyapi.com/api.php/provide/vod/"
+        },
+        {
+            "name": "火狐|点播",
+            "url": "shturl.cc/0qFA0qh5I1OIruaVfuBTk7zVDcWV1/"
+        },
+        {
+            "name": "新浪|点播",
+            "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+        },
+        {
+            "name": "快云|点播",
+            "url": "https://www.kuaiyunzy.com/api.php/provide/vod/"
+        }
+    ],
+    "liveSources": []
 }
